@@ -1,5 +1,5 @@
 import random
-
+# Test Kommentar
 # Konstanten
 MAX_TRIES = 6
 WORDS = ["Abgabe", "moderne", "software", "entwicklung", "hangman"]
